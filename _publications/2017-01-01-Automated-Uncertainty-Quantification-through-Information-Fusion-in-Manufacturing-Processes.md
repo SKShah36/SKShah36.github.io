@@ -1,5 +1,6 @@
 ---
 title: "Automated Uncertainty Quantification through Information Fusion in Manufacturing Processes"
+layout: post
 collection: publications
 permalink: /publication/2017-01-01-Automated-Uncertainty-Quantification-through-Information-Fusion-in-Manufacturing-Processes
 date: 2017-01-01

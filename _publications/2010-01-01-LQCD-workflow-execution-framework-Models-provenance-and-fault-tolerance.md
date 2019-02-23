@@ -1,5 +1,6 @@
 ---
 title: "LQCD workflow execution framework: Models, provenance and fault-tolerance"
+layout: post
 collection: publications
 permalink: /publication/2010-01-01-LQCD-workflow-execution-framework-Models-provenance-and-fault-tolerance
 date: 2010-01-01

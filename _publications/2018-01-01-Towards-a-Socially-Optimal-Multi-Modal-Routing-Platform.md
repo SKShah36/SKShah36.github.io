@@ -1,5 +1,6 @@
 ---
 title: "Towards a Socially Optimal Multi-Modal Routing Platform"
+layout: post
 collection: publications
 permalink: /publication/2018-01-01-Towards-a-Socially-Optimal-Multi-Modal-Routing-Platform
 date: 2018-01-01

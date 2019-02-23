@@ -1,5 +1,6 @@
 ---
 title: "Distributed Real-Time Managed Systems: A Model-Driven Distributed Secure Information Architecture Platform for Managed Embedded Systems"
+layout: post
 collection: publications
 permalink: /publication/2014-03-01-Distributed-Real-Time-Managed-Systems-A-Model-Driven-Distributed-Secure-Information-Architecture-Platform-for-Managed-Embedded-Systems
 date: 2014-03-01

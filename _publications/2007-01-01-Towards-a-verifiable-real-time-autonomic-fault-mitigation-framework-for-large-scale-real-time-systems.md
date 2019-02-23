@@ -1,5 +1,6 @@
 ---
 title: "Towards a verifiable real-time, autonomic, fault mitigation framework for large scale real-time systems"
+layout: post
 collection: publications
 permalink: /publication/2007-01-01-Towards-a-verifiable-real-time-autonomic-fault-mitigation-framework-for-large-scale-real-time-systems
 date: 2007-01-01

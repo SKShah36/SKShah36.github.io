@@ -1,5 +1,6 @@
 ---
 title: "CHARIOT: A Holistic, Goal Driven Orchestration Solution for Resilient IoT Applications"
+layout: post
 collection: publications
 permalink: /publication/2017-01-01-CHARIOT-A-Holistic-Goal-Driven-Orchestration-Solution-for-Resilient-IoT-Applications
 date: 2017-01-01

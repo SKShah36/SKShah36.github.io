@@ -1,5 +1,6 @@
 ---
 title: "Achieving resilience in distributed software systems via self-reconfiguration"
+layout: post
 collection: publications
 permalink: /publication/2016-01-01-Achieving-resilience-in-distributed-software-systems-via-self-reconfiguration
 date: 2016-01-01

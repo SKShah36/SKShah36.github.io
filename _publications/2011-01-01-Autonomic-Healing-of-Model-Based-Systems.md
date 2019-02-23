@@ -1,5 +1,6 @@
 ---
 title: "Autonomic Healing of Model-Based Systems"
+layout: post
 collection: publications
 permalink: /publication/2011-01-01-Autonomic-Healing-of-Model-Based-Systems
 date: 2011-01-01

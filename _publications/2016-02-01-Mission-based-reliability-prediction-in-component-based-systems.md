@@ -1,5 +1,6 @@
 ---
 title: "Mission-based reliability prediction in component-based systems"
+layout: post
 collection: publications
 permalink: /publication/2016-02-01-Mission-based-reliability-prediction-in-component-based-systems
 date: 2016-02-01

@@ -1,5 +1,6 @@
 ---
 title: "Deliberative, Search-based Mitigation Strategies for Model-based Software Health Management"
+layout: post
 collection: publications
 permalink: /publication/2013-12-01-Deliberative-Search-based-Mitigation-Strategies-for-Model-based-Software-Health-Management
 date: 2013-12-01

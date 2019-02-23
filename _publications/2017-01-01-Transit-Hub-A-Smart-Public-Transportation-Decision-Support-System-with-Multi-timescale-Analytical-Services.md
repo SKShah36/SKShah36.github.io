@@ -1,5 +1,6 @@
 ---
 title: "Transit-Hub: A Smart Public Transportation Decision Support System with Multi-timescale Analytical Services"
+layout: post
 collection: publications
 permalink: /publication/2017-01-01-Transit-Hub-A-Smart-Public-Transportation-Decision-Support-System-with-Multi-timescale-Analytical-Services
 date: 2017-01-01

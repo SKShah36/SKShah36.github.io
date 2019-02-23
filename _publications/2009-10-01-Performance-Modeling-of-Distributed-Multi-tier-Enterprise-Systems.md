@@ -1,5 +1,6 @@
 ---
 title: "Performance Modeling of Distributed Multi-tier Enterprise Systems"
+layout: post
 collection: publications
 permalink: /publication/2009-10-01-Performance-Modeling-of-Distributed-Multi-tier-Enterprise-Systems
 date: 2009-10-01

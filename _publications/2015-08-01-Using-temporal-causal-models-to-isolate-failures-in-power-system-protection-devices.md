@@ -1,5 +1,6 @@
 ---
 title: "Using temporal causal models to isolate failures in power system protection devices"
+layout: post
 collection: publications
 permalink: /publication/2015-08-01-Using-temporal-causal-models-to-isolate-failures-in-power-system-protection-devices
 date: 2015-08-01

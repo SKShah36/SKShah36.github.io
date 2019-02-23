@@ -1,5 +1,6 @@
 ---
 title: "DREMS ML: A Wide Spectrum Architecture Design Language for Distributed Computing Platform"
+layout: post
 collection: publications
 permalink: /publication/2015-08-01-DREMS-ML-A-Wide-Spectrum-Architecture-Design-Language-for-Distributed-Computing-Platform
 date: 2015-08-01

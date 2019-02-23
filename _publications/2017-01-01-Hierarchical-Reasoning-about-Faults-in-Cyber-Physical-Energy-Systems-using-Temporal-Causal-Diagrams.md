@@ -1,5 +1,6 @@
 ---
 title: "Hierarchical Reasoning about Faults in Cyber-Physical Energy Systems using Temporal Causal Diagrams"
+layout: post
 collection: publications
 permalink: /publication/2017-01-01-Hierarchical-Reasoning-about-Faults-in-Cyber-Physical-Energy-Systems-using-Temporal-Causal-Diagrams
 date: 2017-01-01
