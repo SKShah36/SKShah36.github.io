@@ -28,6 +28,7 @@ import re
 publist = {
    ''' "proceeding": {
         "file" : "journal.bib",
+        "layout": "post",
         "venuekey": "booktitle",
         "venue-pretext": "In the proceedings of ",
         "collection" : {"name":"publications",
@@ -36,6 +37,7 @@ publist = {
     },'''
     "journal":{
         "file": "journal.bib",
+        "layout": "post",
         "venuekey" : "journal",
         "venue-pretext" : "",
         "collection" : {"name":"publications",
@@ -114,7 +116,7 @@ for pubsource in publist:
             
             ## YAML variables
             md = "---\ntitle: \""   + html_escape(b["title"].replace("{", "").replace("}","").replace("\\","")) + '"\n'
-            
+            md += "layout: post\n"
             md += """collection: """ +  publist[pubsource]["collection"]["name"]
 
             md += """\npermalink: """ + publist[pubsource]["collection"]["permalink"]  + html_filename
