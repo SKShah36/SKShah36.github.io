@@ -1,8 +1,7 @@
 ---
 title: "CHARIOT: A Holistic, Goal Driven Orchestration Solution for Resilient IoT Applications"
-layout: post
 collection: publications
-permalink: /publication/2017-01-01-CHARIOT-A-Holistic-Goal-Driven-Orchestration-Solution-for-Resilient-IoT-Applications
+permalink: /publications/2017-01-01-CHARIOT-A-Holistic-Goal-Driven-Orchestration-Solution-for-Resilient-IoT-Applications
 date: 2017-01-01
 venue: 'ACM Transactions on Cyber-Physical Systems'
 citation: ' Subhav Pradhan,  Abhishek D,  Shweta Khare,  Saideep Nannapaneni,  Aniruddha Gokhale,  Sankaran Mahadevan,  Douglas Schmidt,  Martin Lehofer, &quot;CHARIOT: A Holistic, Goal Driven Orchestration Solution for Resilient IoT Applications.&quot; ACM Transactions on Cyber-Physical Systems, 2017.'

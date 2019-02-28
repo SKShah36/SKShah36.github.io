@@ -1,8 +1,7 @@
 ---
 title: "A Component Model for Hard Real-time Systems: CCM wwith ARINC-653"
-layout: post
 collection: publications
-permalink: /publication/2011-01-01-A-Component-Model-for-Hard-Real-time-Systems-CCM-wwith-ARINC-653
+permalink: /publications/2011-01-01-A-Component-Model-for-Hard-Real-time-Systems-CCM-wwith-ARINC-653
 date: 2011-01-01
 venue: 'Software: Practice and Experience'
 paperurl: 'http://www.isis.vanderbilt.edu/sites/default/files/Journal_0.pdf'

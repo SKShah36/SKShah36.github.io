@@ -32,7 +32,7 @@ publist = {
         "venuekey": "booktitle",
         "venue-pretext": "In the proceedings of ",
         "collection" : {"name":"publications",
-                        "permalink":"/publication/"}
+                        "permalink":"/publications/"}
         
     },'''
     "journal":{
@@ -41,7 +41,7 @@ publist = {
         "venuekey" : "journal",
         "venue-pretext" : "",
         "collection" : {"name":"publications",
-                        "permalink":"/publication/"}
+                        "permalink":"/publications/"}
     } 
 }
 
@@ -115,10 +115,9 @@ for pubsource in publist:
 
             
             ## YAML variables
+            # md = "---\nlayout: post\n"
             md = "---\ntitle: \""   + html_escape(b["title"].replace("{", "").replace("}","").replace("\\","")) + '"\n'
-            md += "layout: post\n"
             md += """collection: """ +  publist[pubsource]["collection"]["name"]
-
             md += """\npermalink: """ + publist[pubsource]["collection"]["permalink"]  + html_filename
             
             note = False

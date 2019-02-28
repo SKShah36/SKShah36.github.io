@@ -1,8 +1,7 @@
 ---
 title: "Distributed Real-Time Managed Systems: A Model-Driven Distributed Secure Information Architecture Platform for Managed Embedded Systems"
-layout: post
 collection: publications
-permalink: /publication/2014-03-01-Distributed-Real-Time-Managed-Systems-A-Model-Driven-Distributed-Secure-Information-Architecture-Platform-for-Managed-Embedded-Systems
+permalink: /publications/2014-03-01-Distributed-Real-Time-Managed-Systems-A-Model-Driven-Distributed-Secure-Information-Architecture-Platform-for-Managed-Embedded-Systems
 date: 2014-03-01
 venue: 'Software, IEEE'
 paperurl: 'http://www.isis.vanderbilt.edu/sites/default/files/f6paper.pdf'

@@ -1,8 +1,7 @@
 ---
 title: "Hierarchical Reasoning about Faults in Cyber-Physical Energy Systems using Temporal Causal Diagrams"
-layout: post
 collection: publications
-permalink: /publication/2017-01-01-Hierarchical-Reasoning-about-Faults-in-Cyber-Physical-Energy-Systems-using-Temporal-Causal-Diagrams
+permalink: /publications/2017-01-01-Hierarchical-Reasoning-about-Faults-in-Cyber-Physical-Energy-Systems-using-Temporal-Causal-Diagrams
 date: 2017-01-01
 venue: 'International Journal of Prognostics and Health Management'
 citation: ' Ajay Chokra,  Nagbhushan Mahadevan,  Abhishek Dubey,  Gabor Karsai, &quot;Hierarchical Reasoning about Faults in Cyber-Physical Energy Systems using Temporal Causal Diagrams.&quot; International Journal of Prognostics and Health Management, 2017.'

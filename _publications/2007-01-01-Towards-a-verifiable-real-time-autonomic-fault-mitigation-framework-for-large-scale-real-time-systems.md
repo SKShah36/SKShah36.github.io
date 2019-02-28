@@ -1,8 +1,7 @@
 ---
 title: "Towards a verifiable real-time, autonomic, fault mitigation framework for large scale real-time systems"
-layout: post
 collection: publications
-permalink: /publication/2007-01-01-Towards-a-verifiable-real-time-autonomic-fault-mitigation-framework-for-large-scale-real-time-systems
+permalink: /publications/2007-01-01-Towards-a-verifiable-real-time-autonomic-fault-mitigation-framework-for-large-scale-real-time-systems
 date: 2007-01-01
 venue: 'Innovations in Systems and Software Engineering'
 paperurl: 'http://www.isis.vanderbilt.edu/sites/default/files/Dubey_A_1_24_2007_Towards_a_.pdf'

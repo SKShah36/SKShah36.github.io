@@ -1,8 +1,7 @@
 ---
 title: "Performance Modeling of Distributed Multi-tier Enterprise Systems"
-layout: post
 collection: publications
-permalink: /publication/2009-10-01-Performance-Modeling-of-Distributed-Multi-tier-Enterprise-Systems
+permalink: /publications/2009-10-01-Performance-Modeling-of-Distributed-Multi-tier-Enterprise-Systems
 date: 2009-10-01
 venue: 'SIGMETRICS Perform. Eval. Rev.'
 paperurl: 'http://doi.acm.org/10.1145/1639562.1639566'

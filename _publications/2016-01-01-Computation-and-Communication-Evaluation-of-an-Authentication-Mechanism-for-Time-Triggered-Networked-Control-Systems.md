@@ -1,8 +1,7 @@
 ---
 title: "Computation and Communication Evaluation of an Authentication Mechanism for Time-Triggered Networked Control Systems"
-layout: post
 collection: publications
-permalink: /publication/2016-01-01-Computation-and-Communication-Evaluation-of-an-Authentication-Mechanism-for-Time-Triggered-Networked-Control-Systems
+permalink: /publications/2016-01-01-Computation-and-Communication-Evaluation-of-an-Authentication-Mechanism-for-Time-Triggered-Networked-Control-Systems
 date: 2016-01-01
 venue: 'Sensors'
 paperurl: 'http://www.mdpi.com/1424-8220/16/8/1166'

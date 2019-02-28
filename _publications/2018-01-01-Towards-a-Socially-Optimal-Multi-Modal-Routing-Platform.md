@@ -1,8 +1,7 @@
 ---
 title: "Towards a Socially Optimal Multi-Modal Routing Platform"
-layout: post
 collection: publications
-permalink: /publication/2018-01-01-Towards-a-Socially-Optimal-Multi-Modal-Routing-Platform
+permalink: /publications/2018-01-01-Towards-a-Socially-Optimal-Multi-Modal-Routing-Platform
 date: 2018-01-01
 venue: 'CoRR'
 paperurl: 'http://arxiv.org/abs/1802.10140'
